@@ -1,0 +1,2 @@
+* Advent of Code 2023
+My [[https://adventofcode.com][Advent of Code]] solutions for 2023.
